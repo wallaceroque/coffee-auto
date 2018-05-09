@@ -2,10 +2,13 @@
   "name": "coffee-auto",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "coffe-machine.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^6.2.0"
+  }
 }
