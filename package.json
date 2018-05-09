@@ -2,7 +2,7 @@
   "name": "coffee-auto",
   "version": "1.0.0",
   "description": "",
-  "main": "coffe-machine.js",
+  "main": "coffee-machine.js",
   "scripts": {
     "test": "node test.js"
   },
